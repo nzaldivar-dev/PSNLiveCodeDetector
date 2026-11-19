@@ -56,3 +56,8 @@ La casilla **Audio solo de la pestaña** está activada por defecto: la app lee 
 - **No lee texto / error de captura:** la ventana no debe estar minimizada. Agranda el reproductor y evita que el código quede tapado.
 - **`cublas64_12.dll` no encontrada:** reinstala dependencias con `pip install -r requirements.txt` (incluye `nvidia-cublas-cu12` y `nvidia-cudnn-cu12`). Si CUDA no funciona, se usa CPU automáticamente.
 - **No encuentra el campo de canje:** inicia sesión en la ventana que se abrió, espera unos segundos y, si no se rellena, pega el código (ya está en el portapapeles).
+
+## Licencia y responsabilidad
+Este proyecto se distribuye bajo la [licencia MIT](LICENSE): cualquiera puede usarlo, copiarlo, modificarlo y redistribuirlo libremente.
+
+El software se entrega **«tal cual», sin garantía de ningún tipo**. El autor no se hace responsable del código ni de su uso: lo que hagas con él, incluido el uso de códigos de canje, el cumplimiento de los términos de YouTube y PlayStation y cualquier consecuencia sobre tus cuentas, es bajo tu propia responsabilidad.
