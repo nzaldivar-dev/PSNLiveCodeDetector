@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+# Perfil de Chrome del monitoreo: contiene sesiones/cookies, nunca subir
+chrome-profile/
+.claude/
